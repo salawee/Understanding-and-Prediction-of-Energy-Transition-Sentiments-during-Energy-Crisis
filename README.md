@@ -107,6 +107,19 @@ The analysis provided insights into how different demographics perceive hydrogen
 4. **Geographical Insights**: The **U.S.** led in terms of tweet volume, indicating greater interest or social media presence, followed by **India** and **France**. Within the U.S., metropolitan areas like **Oklahoma City** showed higher tweet density, pointing to urban interest in hydrogen technology.
 
 ![image](https://github.com/user-attachments/assets/5342ab84-0953-4242-93e9-d622518b712f)
+
+### 🌍 Oklahoma Case Study
+The Oklahoma case study provides an in-depth look at the public sentiment towards hydrogen energy at a regional level. By analyzing tweets from various counties across Oklahoma, we identified key trends and geographic disparities in sentiment during the COVID-19 pandemic.
+
+Oklahoma City emerged as a significant hotspot for hydrogen energy discussions, with high tweet density compared to other regions. This trend suggests that urban areas have a greater awareness of and interest in hydrogen energy, potentially driven by higher media coverage, local initiatives, or industry presence. Counties like Tulsa also showed notable activity, underscoring the concentration of sentiment in metropolitan areas.
+
+Key findings from the Oklahoma case study include:
+- **Urban-Rural Disparity**: Metropolitan areas like Oklahoma City and Tulsa had significantly higher tweet volumes, indicating a greater level of public engagement compared to rural areas.
+- **Sentiment Differences**: Positive sentiment was concentrated primarily in areas with higher economic activity and access to clean energy initiatives, whereas rural counties exhibited more neutral or uncertain sentiments.
+- **Policy Implications**: The localized interest in hydrogen energy points to the need for targeted outreach and education campaigns in rural communities to boost understanding and support for renewable energy technologies.
+
+**🖼️ [Image Placeholder: Oklahoma County-Level Tweet Density Map]**
+
 ![image](https://github.com/user-attachments/assets/79e7dbc7-bf00-49c5-aeff-32d313bd9f71)
 
 ## 💭 Discussion
