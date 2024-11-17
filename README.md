@@ -76,7 +76,8 @@ In addition to Hydrogen BERT, we employed several traditional machine learning m
 
 Feature extraction techniques, such as **TF-IDF** (Term Frequency-Inverse Document Frequency), **Word2Vec**, and **Count Vectorizer**, were used to convert the textual data into numerical representations suitable for modeling.
 
-**🖼️ [Image Placeholder: Performance metrics of different machine learning models]**
+![image](https://github.com/user-attachments/assets/3f426127-ea9d-4ec8-8278-aa94b092b497)
+
 
 ## 🎯 Results
 
