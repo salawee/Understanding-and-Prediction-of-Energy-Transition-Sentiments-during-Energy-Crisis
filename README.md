@@ -29,7 +29,7 @@ The COVID-19 pandemic created significant shifts in public opinion and prioritie
 
 Hydrogen energy, as a clean and sustainable option, offers a potential solution to climate change challenges. However, its adoption is affected by technological, economic, and infrastructural barriers, alongside fluctuating public perceptions influenced by the pandemic. By accurately gauging public sentiment, stakeholders can adapt their policies and investments, ensuring better market adoption and success for hydrogen technologies.
 
-**🖼️ [Image Placeholder: Chart showing overall tweet sentiment trends]**
+![image](https://github.com/user-attachments/assets/becfbfc4-508a-4ebe-ac98-e59205ed6a58)
 
 ## 💧 Why Hydrogen Energy
 
@@ -38,6 +38,8 @@ Hydrogen energy presents significant advantages as a clean and versatile energy 
 - **Storage**: Hydrogen can be stored for extended periods, addressing the intermittency issues faced by other renewable sources like wind and solar.
 - **Zero Emissions**: Hydrogen energy produces no greenhouse gases when used, making it a key candidate for mitigating climate change.
 - **Versatility**: Hydrogen has broad applications in industries, transportation, and electricity generation, which makes it an attractive solution for a sustainable energy transition.
+
+![image](https://github.com/user-attachments/assets/3a67e27a-4113-4f82-b2ab-2549325f21fe)
 
 Given the context of climate change, the adoption of hydrogen energy is essential. Hydrogen is uniquely positioned to address pressing environmental issues, offering a path to a sustainable and equitable energy future.
 
